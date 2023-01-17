@@ -1,0 +1,11 @@
+com\mycompany\abstractfactory_pattern\Red.class
+com\mycompany\abstractfactory_pattern\AbstractFactory.class
+com\mycompany\abstractfactory_pattern\Circle.class
+com\mycompany\abstractfactory_pattern\FactoryProducer.class
+com\mycompany\abstractfactory_pattern\Shape.class
+com\mycompany\abstractfactory_pattern\ShapeFactory.class
+com\mycompany\abstractfactory_pattern\ColorFactory.class
+com\mycompany\abstractfactory_pattern\Rectangle.class
+com\mycompany\abstractfactory_pattern\AbstractFactory_pattern.class
+com\mycompany\abstractfactory_pattern\Color.class
+com\mycompany\abstractfactory_pattern\Green.class
