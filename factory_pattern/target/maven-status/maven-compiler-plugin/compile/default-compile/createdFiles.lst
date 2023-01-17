@@ -1,0 +1,5 @@
+com\mycompany\factory_pattern\Factory_pattern.class
+com\mycompany\factory_pattern\Rectangle.class
+com\mycompany\factory_pattern\ShapeFactory.class
+com\mycompany\factory_pattern\Shape.class
+com\mycompany\factory_pattern\Circle.class
